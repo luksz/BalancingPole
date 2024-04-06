@@ -1,2 +1,2 @@
-# BalancingPole
-SC3000 Assignment 1
+# SC3000 Assignment 1
+
